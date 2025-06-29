@@ -1,7 +1,7 @@
 
 ## About Me
 ```
-I'm Coloured, a novice programmer in C & C#.
+I'm Coloured, a novice programmer in C, C#, and Java.
 ```
 ## Skills
 
@@ -10,6 +10,8 @@ I'm Coloured, a novice programmer in C & C#.
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 
 ### Front-End Development
 
