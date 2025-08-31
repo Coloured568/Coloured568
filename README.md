@@ -1,8 +1,8 @@
 
 ## About Me
-```
-I'm Coloured, a novice programmer in C, C#, and Java.
-```
+
+One could argue I'm not a professional.
+
 ## Skills
 
 ### Languages
